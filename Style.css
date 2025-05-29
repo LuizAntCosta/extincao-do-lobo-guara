@@ -1,0 +1,62 @@
+
+.barra-navegação{
+   border: 3px solid #CD853F;
+   background-color: #A0522D;
+   text-align: center;
+   text-shadow: 2px 2px 5px #050505;
+}
+.barra-navegação > a{
+text-decoration: none;
+color: rgb(170, 106, 10);
+}
+
+.barra-navegação > a:hover {
+   font-size: 120%;
+   border: 1px solid lightslategray;
+   background-color: lightslategray;
+   padding-left: 5px;
+   padding-right: 5px;
+   border-radius: 5px;
+   box-shadow: 5px 5px 5px;
+}
+
+.lista-com-borda li{
+   border: 5px solid #CD853F;
+   padding: 5px;
+   margin-bottom: 5px;
+   background-color:#A0522D;
+   border-width: 5px
+}
+
+
+.container{
+  display:flex;
+  justify-content: center;
+}
+
+.centro {
+   text-align: center;
+}
+
+.meio{
+    text-align: center;     
+}
+
+
+body{
+   background-color:#8B4513;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
